@@ -1,3 +1,8 @@
 footer {
     background-color: #0081b9;
+    color: white;
+}
+
+.main-details__title {
+    color: #0081b9;
 }
